@@ -26,8 +26,7 @@ var (
 func main() {
 	ctx := context.Background()
 	projects := []string{
-		"project1",
-		"project2",
+		"king-core-alpha-dev",
 	}
 
 	for _, v := range projects {
